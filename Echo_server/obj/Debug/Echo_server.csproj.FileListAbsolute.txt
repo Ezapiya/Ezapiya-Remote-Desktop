@@ -1,0 +1,11 @@
+E:\LetUsDo\ApoioViewer_Echo_server\bin\Debug\Echo_server.exe
+E:\LetUsDo\ApoioViewer_Echo_server\bin\Debug\Echo_server.pdb
+E:\LetUsDo\ApoioViewer_Echo_server\obj\Debug\Echo_server.csprojResolveAssemblyReference.cache
+E:\LetUsDo\ApoioViewer_Echo_server\obj\Debug\Echo_server.exe
+E:\LetUsDo\ApoioViewer_Echo_server\obj\Debug\Echo_server.pdb
+F:\LetUsDo\ApoioViewer_Echo_server\obj\Debug\Echo_server.exe
+F:\LetUsDo\ApoioViewer_Echo_server\obj\Debug\Echo_server.pdb
+C:\Users\user\Documents\GitHub\Ezapiya-Remote-Desktop\ApoioViewer_Echo_server\obj\Debug\Echo_server.exe
+C:\Users\user\Documents\GitHub\Ezapiya-Remote-Desktop\ApoioViewer_Echo_server\obj\Debug\Echo_server.pdb
+C:\Users\user\Documents\GitHub\Ezapiya-Remote-Desktop\Echo_server\obj\Debug\Echo_server.exe
+C:\Users\user\Documents\GitHub\Ezapiya-Remote-Desktop\Echo_server\obj\Debug\Echo_server.pdb

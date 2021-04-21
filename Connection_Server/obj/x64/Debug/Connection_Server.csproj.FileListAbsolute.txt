@@ -1,0 +1,17 @@
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\bin\x64\Debug\Connection_Server.exe.config
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\bin\x64\Debug\Connection_Server.exe
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\bin\x64\Debug\Connection_Server.pdb
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\bin\x64\Debug\itextsharp.dll
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\bin\x64\Debug\itextsharp.xml
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\obj\x64\Debug\Connection_Server.csprojResolveAssemblyReference.cache
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\obj\x64\Debug\Connection_Server.exe
+E:\LetUsDo\ApoioViewer_Connection_Server\ApoioViewer_Connection_Server\obj\x64\Debug\Connection_Server.pdb
+E:\LetUsDo\ApoioViewer_Connection_Server\Connection_Server\bin\x64\Debug\Connection_Server.exe.config
+E:\LetUsDo\ApoioViewer_Connection_Server\Connection_Server\obj\x64\Debug\Connection_Server.exe
+E:\LetUsDo\ApoioViewer_Connection_Server\Connection_Server\obj\x64\Debug\Connection_Server.pdb
+F:\LetUsDo\Connection_Server\bin\x64\Debug\Connection_Server.exe.config
+F:\LetUsDo\Connection_Server\obj\x64\Debug\Connection_Server.exe
+F:\LetUsDo\Connection_Server\obj\x64\Debug\Connection_Server.pdb
+C:\Users\user\Documents\GitHub\Ezapiya-Remote-Desktop\Connection_Server\bin\x64\Debug\Connection_Server.exe.config
+C:\Users\user\Documents\GitHub\Ezapiya-Remote-Desktop\Connection_Server\obj\x64\Debug\Connection_Server.exe
+C:\Users\user\Documents\GitHub\Ezapiya-Remote-Desktop\Connection_Server\obj\x64\Debug\Connection_Server.pdb

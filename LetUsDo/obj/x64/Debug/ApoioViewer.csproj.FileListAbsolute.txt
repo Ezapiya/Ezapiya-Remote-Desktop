@@ -1,0 +1,469 @@
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\auto_update.exe
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\mag32.exe
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\mag64.exe
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\32bit service.reg
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\64bit service.reg
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+C:\Users\Administrator\Desktop\project\ApoioViewer\bin\x64\Debug\ScreenCapture.dll
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+C:\Users\Administrator\Desktop\project\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\auto_update.exe
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\32bit service.reg
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\64bit service.reg
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\auto_update.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\mag32.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\mag64.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\32bit service.reg
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\64bit service.reg
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.cache
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.Fody.CopyLocal.cache
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.2\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojAssemblyReference.cache
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\auto_update.exe
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\mag32.exe
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\mag64.exe
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\32bit service.reg
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\64bit service.reg
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\bin\x64\Debug\ScreenCapture.dll
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.cache
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.CopyComplete
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+F:\apoio\software\ApoioViewer\updates\1.0.2.3\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\auto_update.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\mag32.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\mag64.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\32bit service.reg
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\64bit service.reg
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojAssemblyReference.cache
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.cache
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.Fody.CopyLocal.cache
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+F:\apoio\software\ApoioViewer\builder\ApoioViewer\1.0.3\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\auto_update.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\mag32.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\mag64.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\32bit service.reg
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\64bit service.reg
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\bin\x64\Debug\ScreenCapture.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer1.0.3 update\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\auto_update.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\mag32.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\mag64.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\32bit service.reg
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\64bit service.reg
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ScreenCapture.dll
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\auto_update.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\mag32.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\mag64.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\32bit service.reg
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\64bit service.reg
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\bin\x64\Debug\ScreenCapture.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\auto_update.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\mag32.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\mag64.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\32bit service.reg
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\64bit service.reg
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ScreenCapture.dll
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\HP\Desktop\xxx\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_protection_login.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_set_protection_password.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\auto_update.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\32bit service.reg
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\64bit service.reg
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_protection_login.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.Blackscreen.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Blackscreen.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_protection_login.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_set_protection_password.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\bin\x64\Debug\auto_update.exe
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\bin\x64\Debug\32bit service.reg
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\bin\x64\Debug\64bit service.reg
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+C:\Users\Vinit\Desktop\temp\ApoioViewer\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\bin\x64\Debug\auto_update.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\bin\x64\Debug\32bit service.reg
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\bin\x64\Debug\64bit service.reg
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Blackscreen.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_protection_login.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Drawing.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.Blackscreen.resources
+C:\Users\Vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Drawing.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\auto_update.exe
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\32bit service.reg
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\64bit service.reg
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.Blackscreen.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Drawing.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_protection_login.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+E:\apoioviewer_test_for_more_speed\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\apoioviewer_test_for_more_speed\ApoioViewer\bin\x64\Debug\ApoioViewer.exe.config
+C:\Users\Vinit\Desktop\New folder\ApoioViewer\bin\x64\Debug\ApoioViewer.exe.config
+C:\Users\Vinit\Desktop\New folder\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+C:\Users\Vinit\Desktop\New folder\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\bin\x64\Debug\ApoioViewer.exe.config
+E:\Ishanti Project\ApoioViewer_project\ApoioViewer_project\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Drawing.resources
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\auto_update.exe
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\32bit service.reg
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\64bit service.reg
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\ApoioViewer.exe.config
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+E:\apoioviewer_website_model\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.Blackscreen.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.Chat.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_command_window.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Drawing.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_login.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_process_manger.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_protection_login.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_serch_connection.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Forgot_Password.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Withdraw.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\ApoioViewer.exe.config
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\Setting.ini
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\Razorpay.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.pdb
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.Blob.pdb
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Forgot_Password.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_speed_test.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Withdraw.resources
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\DpiHelper32.dll
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\x64\Debug\DpiHelper64.dll
+E:\apoioviewer_P2P\ApoioViewer\bin\x64\Debug\ApoioViewer.exe.config
+E:\apoioviewer_P2P\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+E:\apoioviewer_P2P\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\ApoioViewer.exe.config
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.exe
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.pdb
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.csprojResolveAssemblyReference.cache
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.Blackscreen.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_file_system.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_personal_password.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_save_contact.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.Frm_user_responce.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_reciver.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.Image_sender.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.Properties.Resources.resources
+E:\LetUsDo\ApoioViewer\obj\x64\Debug\ApoioViewer.csproj.GenerateResource.Cache
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\Setting.ini
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\DpiHelper32.dll
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\DpiHelper64.dll
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\libwebp_x64.dll
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\libwebp_x86.dll
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\ApoioViewer.exe
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\ApoioViewer.pdb
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\Newtonsoft.Json.xml
+E:\LetUsDo\ApoioViewer\bin\x64\Debug\LetUsDo.exe.config

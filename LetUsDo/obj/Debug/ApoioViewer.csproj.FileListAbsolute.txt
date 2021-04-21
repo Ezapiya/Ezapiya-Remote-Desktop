@@ -1,0 +1,347 @@
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\Setting.ini
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\auto_update.exe
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\libwebp_x64.dll
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\libwebp_x86.dll
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\32bit service.reg
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\64bit service.reg
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\ApoioViewer.exe
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\ApoioViewer.pdb
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\Newtonsoft.Json.dll
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\Razorpay.dll
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\bin\Debug\Newtonsoft.Json.xml
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.Blackscreen.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.Chat.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_command_window.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_Drawing.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_file_system.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_Forgot_Password.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.Frm_login.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_personal_password.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_process_manger.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_protection_login.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_save_contact.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_serch_connection.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.Frm_user_responce.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.frm_Withdraw.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.Image_reciver.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.Image_sender.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.Properties.Resources.resources
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.csproj.GenerateResource.cache
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.csproj.CopyComplete
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.exe
+E:\apoio\software\ApoioViewer\updates\1.0.7.19\ApoioViewer\obj\Debug\ApoioViewer.pdb
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Setting.ini
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\auto_update.exe
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\libwebp_x64.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\libwebp_x86.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\32bit service.reg
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\64bit service.reg
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\ApoioViewer.exe
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\ApoioViewer.pdb
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Newtonsoft.Json.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Blob.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Razorpay.dll
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Newtonsoft.Json.xml
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.pdb
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.xml
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Blob.pdb
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Blob.xml
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.pdb
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.xml
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.pdb
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.xml
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Blackscreen.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Activet_blackscree.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Chat.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_command_window.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Connect_to_server.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Drawing.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_file_system.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Forgot_Password.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Frm_login.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_personal_password.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_process_manger.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_protection_login.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_save_contact.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_serch_connection.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_set_protection_password.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_speed_test.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Frm_user_responce.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Withdraw.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Image_reciver.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Image_sender.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Properties.Resources.resources
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.csproj.GenerateResource.cache
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.csproj.CopyComplete
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.exe
+\\VINIT-PC\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.pdb
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Setting.ini
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\auto_update.exe
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\libwebp_x64.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\libwebp_x86.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\32bit service.reg
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\64bit service.reg
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\ApoioViewer.exe
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\ApoioViewer.pdb
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Newtonsoft.Json.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Blob.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Razorpay.dll
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\Newtonsoft.Json.xml
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.pdb
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.xml
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Blob.pdb
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Blob.xml
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.xml
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\Shared_folder_for_VM_win7\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.csprojAssemblyReference.cache
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Blackscreen.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Chat.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_command_window.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Drawing.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_file_system.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Forgot_Password.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Frm_login.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_personal_password.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_process_manger.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_protection_login.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_save_contact.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_serch_connection.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_speed_test.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Frm_user_responce.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.frm_Withdraw.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Image_reciver.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Image_sender.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.Properties.Resources.resources
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.csproj.GenerateResource.cache
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.csproj.CopyComplete
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.exe
+E:\Shared_folder_for_VM_win7\ApoioViewer\obj\Debug\ApoioViewer.pdb
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\Setting.ini
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\auto_update.exe
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\libwebp_x64.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\libwebp_x86.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\32bit service.reg
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\64bit service.reg
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\ApoioViewer.exe
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\ApoioViewer.pdb
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\Razorpay.dll
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.pdb
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.xml
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.Blackscreen.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_Activet_blackscree.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.Chat.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_Drawing.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_Forgot_Password.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.Frm_login.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_protection_login.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_serch_connection.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_set_protection_password.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_speed_test.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.frm_Withdraw.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.Image_sender.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.csproj.GenerateResource.cache
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.csproj.CopyComplete
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.exe
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.pdb
+C:\Users\Vinit\Desktop\No scale\ApoioViewer\obj\Debug\ApoioViewer.csprojAssemblyReference.cache
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\Setting.ini
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\auto_update.exe
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\libwebp_x64.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\libwebp_x86.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\32bit service.reg
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\64bit service.reg
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\ApoioViewer.exe
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\ApoioViewer.pdb
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\Newtonsoft.Json.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.Blob.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\Razorpay.dll
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\Newtonsoft.Json.xml
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.pdb
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.xml
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.Blob.pdb
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.Blob.xml
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.Extensions.xml
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\apoioviewer_website_model\ApoioViewer\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.Blackscreen.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.Chat.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_command_window.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_Drawing.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_file_system.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_Forgot_Password.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.Frm_login.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_personal_password.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_process_manger.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_protection_login.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_save_contact.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_serch_connection.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_speed_test.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.Frm_user_responce.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.frm_Withdraw.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.Image_reciver.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.Image_sender.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.Properties.Resources.resources
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.csproj.GenerateResource.cache
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.csproj.CopyComplete
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.exe
+E:\apoioviewer_website_model\ApoioViewer\obj\Debug\ApoioViewer.pdb
+C:\Users\vinit\Desktop\temp\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\Debug\ApoioViewer.exe
+C:\Users\vinit\Desktop\temp\ApoioViewer\obj\Debug\ApoioViewer.pdb
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\Setting.ini
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\auto_update.exe
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\DpiHelper32.dll
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\DpiHelper64.dll
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\libwebp_x64.dll
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\libwebp_x86.dll
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\32bit service.reg
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\64bit service.reg
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\ApoioViewer.exe
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\ApoioViewer.pdb
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\Newtonsoft.Json.dll
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\Razorpay.dll
+E:\apoioviewer_P2P\ApoioViewer\bin\Debug\Newtonsoft.Json.xml
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.csprojAssemblyReference.cache
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.Blackscreen.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_Activet_blackscree.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.Chat.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_command_window.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_Connect_to_server.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_Drawing.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_file_system.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_Forgot_Password.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.Frm_login.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_personal_password.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_process_manger.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_protection_login.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_save_contact.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_serch_connection.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_set_protection_password.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_speed_test.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.Frm_user_responce.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.frm_Withdraw.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.Image_reciver.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.Image_sender.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.Properties.Resources.resources
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.csproj.GenerateResource.cache
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.csproj.CopyComplete
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.exe
+E:\apoioviewer_P2P\ApoioViewer\obj\Debug\ApoioViewer.pdb
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\Setting.ini
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\auto_update.exe
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\DpiHelper32.dll
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\DpiHelper64.dll
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\libwebp_x64.dll
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\libwebp_x86.dll
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\32bit service.reg
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\64bit service.reg
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\ApoioViewer.exe.config
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\ApoioViewer.exe
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\ApoioViewer.pdb
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\Razorpay.dll
+C:\Users\Vinit\Desktop\ApoioViewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.Blackscreen.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_Activet_blackscree.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.Chat.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_command_window.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_Connect_to_server.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_Drawing.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_file_system.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_Forgot_Password.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.Frm_login.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_personal_password.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_process_manger.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_protection_login.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_save_contact.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_serch_connection.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_set_protection_password.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_speed_test.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.Frm_user_responce.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_waiting_for_user_responce.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.frm_Withdraw.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.Image_reciver.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.Image_sender.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.Properties.Resources.resources
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.csproj.GenerateResource.cache
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.csproj.CoreCompileInputs.cache
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.csproj.CopyComplete
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.exe
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.pdb
+C:\Users\Vinit\Desktop\ApoioViewer\obj\Debug\ApoioViewer.csprojAssemblyReference.cache
